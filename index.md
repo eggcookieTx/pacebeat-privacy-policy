@@ -240,7 +240,26 @@ You can also:
 
 ---
 
-## 11. International Data Transfers
+## 11. How to Delete Your PaceBeat Account
+
+If you want to delete your PaceBeat account and the data associated with it, please follow these steps:
+
+1. Send an email to **service@digitaltwinsapps.com** from the email address linked to your PaceBeat account.
+2. Use the subject line: **“PaceBeat account deletion request”**.
+3. In the body of the email, clearly state that you want your PaceBeat account deleted and include:
+   - Your PaceBeat account email address
+   - Any additional information that can help us locate your account (for example, your display name or approximate date of sign-up).
+
+Once we receive your request and verify your identity, we will:
+
+- Delete your PaceBeat account and associated personal information stored in our systems, including your profile, run history, location data, and fitness metrics.
+- Remove or anonymize related data from our active databases, except for information we are legally required to retain (for example, limited purchase or transaction records for tax, accounting, or legal obligations).
+
+We aim to complete account deletion within **30 days** of verifying your request and will notify you by email once the process is complete.
+
+---
+
+## 12. International Data Transfers
 
 Our servers and third-party providers (like Firebase, AdMob, RevenueCat, Google Maps) may be located in different countries.
 
@@ -248,7 +267,7 @@ This means your data may be transferred to and processed in countries that may h
 
 ---
 
-## 12. Changes to This Privacy Policy
+## 13. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. When we do:
 
@@ -259,7 +278,7 @@ Your continued use of PaceBeat after changes to this Privacy Policy means you ac
 
 ---
 
-## 13. How to Contact Us
+## 14. How to Contact Us
 
 If you have any questions, concerns, or requests about this Privacy Policy or your data, you can contact us at:
 
@@ -267,6 +286,3 @@ If you have any questions, concerns, or requests about this Privacy Policy or yo
 **Email:** [service@digitaltwinsapps.com](mailto:service@digitaltwinsapps.com)
 
 ---
-
-> **Note for the Developer:**  
-> Before publishing, update the **Last updated** date and consider having this policy reviewed by a qualified legal professional to ensure compliance with all applicable laws (e.g., GDPR, CCPA, COPPA) in the regions where your app will be available.
